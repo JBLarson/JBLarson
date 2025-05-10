@@ -1,5 +1,5 @@
 <h1 align="center">I'm JB Larson</h1>
-<h3 align="center">Computer Science Student & Freelance Developer</h3>
+<h3 align="center">Data Science Student and Freelance Developer</h3>
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 

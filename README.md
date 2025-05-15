@@ -1,7 +1,7 @@
 <h1 align="center">I'm JB Larson</h1>
 <h3 align="center">Data Science Student and Freelance Developer</h3>
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **JB@hireJB.me**
 

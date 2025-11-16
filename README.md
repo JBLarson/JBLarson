@@ -1,8 +1,7 @@
 <h1 align="center">I'm JB Larson</h1>
 <h3 align="center">Data Science Student and Freelance Developer</h3>
 
-- 🌱 I’m currently learning React
-
+- 🌱 I'm currently learning React
 - 📫 How to reach me **JB@hireJB.me**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +13,18 @@
 <p align="left">
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+	</a>
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+		<img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+	</a>
+	<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>

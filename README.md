@@ -1,9 +1,9 @@
 <h1 align="center">I'm JB Larson</h1>
 <h3 align="center">Data Science Student and Freelance Developer</h3>
 
-- 🌱 I'm currently building an open-source Wikipedia knowledge graph explorer. Frontend uses three.js for radial tree visualization, backend includes embedding generation, metadata extaraction and processing pipeline, and flask server
-- **🔗 Frontend:** [github.com/jblarson/wikiExplorer](https://github.com/jblarson/wikiExplorer)
-**🔗 Backend:** [github.com/jblarson/wikiVector](https://github.com/jblarson/wikiVector)
+- 🌱 I'm currently building an open-source Wikipedia knowledge graph explorer. Frontend uses three.js for knowledge graph visualization, wiki dump processing pipeline includes embedding generation and metadata extaraction and processing, and flask server
+- **🔗 Knowledge Graph App:** [github.com/jblarson/wikiExplorer](https://github.com/jblarson/wikiExplorer)
+**🔗 Embeddings / Metadata Processing Pipeline:** [github.com/jblarson/wikiVector](https://github.com/jblarson/wikiVector)
 
 - 📫 How to reach me **JB@hireJB.me**
 
